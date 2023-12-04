@@ -21,5 +21,5 @@ void free_listint(listint_t *head);
 listint_t *get_nodeint_at_index(listint_t *head, unsigned int index);
 int is_palindrome(listint_t **head);
 size_t listint_len(const listint_t *h);
-
+void print_python_list_info(PyObject *p);
 #endif /* LISTS_H */
