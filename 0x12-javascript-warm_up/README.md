@@ -19,8 +19,8 @@
   - [Modern js](https://intranet.alxswe.com/rltoken/NZawtiBjWUpiojnrtVywNw)
 ## Author
 
-- Orji David 
-- orjidavid0063@gmail.com
+- Anthony Maxwell
+- Netochukwu26@gmail.com
 
 
 ## Learning Objectives
@@ -58,7 +58,7 @@ General
 - All your files must be executable
 - The length of your files will be tested using wc
 ## 🔗 Github Profile
-- [@Dayvid0063](https://github.com/Dayvid0063)
+- [@Maxist101](https://github.com/Maxist101)
 
 
 ## Project Released By
