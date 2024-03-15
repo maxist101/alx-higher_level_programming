@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Prints the State object with the given name"""
 

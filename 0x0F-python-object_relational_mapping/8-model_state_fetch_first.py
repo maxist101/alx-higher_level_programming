@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Prints the first State object from the database"""
 

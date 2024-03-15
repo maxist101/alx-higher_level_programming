@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Prints State objects containing the letter "a" from the database"""
 
@@ -33,3 +32,4 @@ if __name__ == '__main__':
         """Display results"""
         for st in res:
             print('{}: {}'.format(st.id, st.name))
+            
